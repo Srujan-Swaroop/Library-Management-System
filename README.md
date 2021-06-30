@@ -1,6 +1,6 @@
 # Library-Management-System
 
-Contains Databse course project
+Contains Database course project
 
 Implementation of the database for library.
 
